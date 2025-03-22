@@ -1,0 +1,8 @@
+
+✅ Feature	              🛠️ Testing Tool
+Rendering & Data Display	Jest + React Testing Library
+Sorting & Filtering         Jest + Cypress
+Column Visibility	        Jest
+Drag & Drop Columns	        Cypress
+Aggregation Function Testing Jest
+Pagination & Search         Cypress
